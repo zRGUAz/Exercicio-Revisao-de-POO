@@ -1,0 +1,15 @@
+C:\Users\Pichau\source\repos\Modulo3\Exercício Revisão de POO\Exercício Revisão de POO\bin\Debug\net6.0\Exercício Revisão de POO.exe
+C:\Users\Pichau\source\repos\Modulo3\Exercício Revisão de POO\Exercício Revisão de POO\bin\Debug\net6.0\Exercício Revisão de POO.deps.json
+C:\Users\Pichau\source\repos\Modulo3\Exercício Revisão de POO\Exercício Revisão de POO\bin\Debug\net6.0\Exercício Revisão de POO.runtimeconfig.json
+C:\Users\Pichau\source\repos\Modulo3\Exercício Revisão de POO\Exercício Revisão de POO\bin\Debug\net6.0\Exercício Revisão de POO.dll
+C:\Users\Pichau\source\repos\Modulo3\Exercício Revisão de POO\Exercício Revisão de POO\bin\Debug\net6.0\Exercício Revisão de POO.pdb
+C:\Users\Pichau\source\repos\Modulo3\Exercício Revisão de POO\Exercício Revisão de POO\obj\Debug\net6.0\Exercício Revisão de POO.csproj.AssemblyReference.cache
+C:\Users\Pichau\source\repos\Modulo3\Exercício Revisão de POO\Exercício Revisão de POO\obj\Debug\net6.0\Exercício Revisão de POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\source\repos\Modulo3\Exercício Revisão de POO\Exercício Revisão de POO\obj\Debug\net6.0\Exercício Revisão de POO.AssemblyInfoInputs.cache
+C:\Users\Pichau\source\repos\Modulo3\Exercício Revisão de POO\Exercício Revisão de POO\obj\Debug\net6.0\Exercício Revisão de POO.AssemblyInfo.cs
+C:\Users\Pichau\source\repos\Modulo3\Exercício Revisão de POO\Exercício Revisão de POO\obj\Debug\net6.0\Exercício Revisão de POO.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\source\repos\Modulo3\Exercício Revisão de POO\Exercício Revisão de POO\obj\Debug\net6.0\Exercício Revisão de POO.dll
+C:\Users\Pichau\source\repos\Modulo3\Exercício Revisão de POO\Exercício Revisão de POO\obj\Debug\net6.0\refint\Exercício Revisão de POO.dll
+C:\Users\Pichau\source\repos\Modulo3\Exercício Revisão de POO\Exercício Revisão de POO\obj\Debug\net6.0\Exercício Revisão de POO.pdb
+C:\Users\Pichau\source\repos\Modulo3\Exercício Revisão de POO\Exercício Revisão de POO\obj\Debug\net6.0\Exercício Revisão de POO.genruntimeconfig.cache
+C:\Users\Pichau\source\repos\Modulo3\Exercício Revisão de POO\Exercício Revisão de POO\obj\Debug\net6.0\ref\Exercício Revisão de POO.dll
